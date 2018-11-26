@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-strapi-auth-example",
+  "name": "mer",
   "version": "0.1.0",
-  "description": "Nuxt authentication example with Strapi 3",
+  "description": "connecting people",
   "author": "yann",
   "private": true,
   "scripts": {
